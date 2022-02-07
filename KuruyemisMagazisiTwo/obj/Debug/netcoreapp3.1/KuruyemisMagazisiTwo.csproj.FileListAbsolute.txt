@@ -1,0 +1,14 @@
+C:\Users\PC1411\source\repos\KuruyemisMagazisiTwo\KuruyemisMagazisiTwo\obj\Debug\netcoreapp3.1\KuruyemisMagazisiTwo.csproj.AssemblyReference.cache
+C:\Users\PC1411\source\repos\KuruyemisMagazisiTwo\KuruyemisMagazisiTwo\obj\Debug\netcoreapp3.1\KuruyemisMagazisiTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC1411\source\repos\KuruyemisMagazisiTwo\KuruyemisMagazisiTwo\obj\Debug\netcoreapp3.1\KuruyemisMagazisiTwo.AssemblyInfoInputs.cache
+C:\Users\PC1411\source\repos\KuruyemisMagazisiTwo\KuruyemisMagazisiTwo\obj\Debug\netcoreapp3.1\KuruyemisMagazisiTwo.AssemblyInfo.cs
+C:\Users\PC1411\source\repos\KuruyemisMagazisiTwo\KuruyemisMagazisiTwo\obj\Debug\netcoreapp3.1\KuruyemisMagazisiTwo.csproj.CoreCompileInputs.cache
+C:\Users\PC1411\source\repos\KuruyemisMagazisiTwo\KuruyemisMagazisiTwo\bin\Debug\netcoreapp3.1\KuruyemisMagazisiTwo.exe
+C:\Users\PC1411\source\repos\KuruyemisMagazisiTwo\KuruyemisMagazisiTwo\bin\Debug\netcoreapp3.1\KuruyemisMagazisiTwo.deps.json
+C:\Users\PC1411\source\repos\KuruyemisMagazisiTwo\KuruyemisMagazisiTwo\bin\Debug\netcoreapp3.1\KuruyemisMagazisiTwo.runtimeconfig.json
+C:\Users\PC1411\source\repos\KuruyemisMagazisiTwo\KuruyemisMagazisiTwo\bin\Debug\netcoreapp3.1\KuruyemisMagazisiTwo.runtimeconfig.dev.json
+C:\Users\PC1411\source\repos\KuruyemisMagazisiTwo\KuruyemisMagazisiTwo\bin\Debug\netcoreapp3.1\KuruyemisMagazisiTwo.dll
+C:\Users\PC1411\source\repos\KuruyemisMagazisiTwo\KuruyemisMagazisiTwo\bin\Debug\netcoreapp3.1\KuruyemisMagazisiTwo.pdb
+C:\Users\PC1411\source\repos\KuruyemisMagazisiTwo\KuruyemisMagazisiTwo\obj\Debug\netcoreapp3.1\KuruyemisMagazisiTwo.dll
+C:\Users\PC1411\source\repos\KuruyemisMagazisiTwo\KuruyemisMagazisiTwo\obj\Debug\netcoreapp3.1\KuruyemisMagazisiTwo.pdb
+C:\Users\PC1411\source\repos\KuruyemisMagazisiTwo\KuruyemisMagazisiTwo\obj\Debug\netcoreapp3.1\KuruyemisMagazisiTwo.genruntimeconfig.cache
